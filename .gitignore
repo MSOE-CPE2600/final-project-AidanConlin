@@ -1,0 +1,9 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+
+# Executables
+voter_log
+voting_terminal
